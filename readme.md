@@ -1,7 +1,11 @@
 **Name:** Vishnu Damuloori
+
 **COMPANY:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS8234
+
 **DOMAIN:** FULL STACK DEVLOPMENT
+
 **DURATION:** SEPTEMBER 20th,2024 - OCTOBER 20th, 2024
 
 A Real Time Chat Application built using Node.js, Express, MYSQL , Socket.io, JWT
